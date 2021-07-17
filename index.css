@@ -2,7 +2,29 @@ body{
     background-color: rgb(232, 236, 240);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6em;
-    margin: 4.5%;
+    margin: 6%;
+    font-size: 110%;
 }
 h1{
     color: rgb(238, 152, 48);
+    font-size: 300%;
+
+}
+html{margin-top: 7%;
+margin: 10%;}
+
+.image{
+    margin-left: 60%;
+}
+h2{
+    margin-top: 0%;
+    margin-left: 40%;
+
+}
+link{
+    margin-bottom: 20%
+
+}
+.head{
+    text-align: inherit;
+}
