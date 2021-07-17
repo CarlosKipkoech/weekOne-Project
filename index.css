@@ -2,4 +2,7 @@ body{
     background-color: rgb(232, 236, 240);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6em;
+    margin: 4.5%;
 }
+h1{
+    color: rgb(238, 152, 48);
