@@ -18,7 +18,9 @@ margin: 10%;}
 }
 h2{
     margin-top: 0%;
-    margin-left: 40%;
+    margin-left:0%;
+    font-size: 190%;
+    line-height: 1.5em;
 
 }
 link{
@@ -26,5 +28,8 @@ link{
 
 }
 .head{
-    text-align: inherit;
+
+}
+.p{
+    font-size: 90%;
 }
