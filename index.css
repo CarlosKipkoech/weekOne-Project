@@ -1,16 +1,15 @@
 body{
     background-color: rgb(232, 236, 240);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: sans-serif;
     line-height: 1.6em%;
     margin: 1.5%;
     font-size: 110%;
 }
 h1{
-    color: rgb(238, 152, 48);
+    color:rgb(221, 132, 22);
     font-size: 340%;
     margin-bottom: 1.5%;
-    border-bottom: black;
-    border-bottom-width: 10%;
+
 
 
 }
