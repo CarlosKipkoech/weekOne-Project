@@ -2,12 +2,13 @@ body{
     background-color: rgb(232, 236, 240);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6em;
-    margin: 6%;
+    margin: 4%;
     font-size: 110%;
 }
 h1{
     color: rgb(238, 152, 48);
-    font-size: 350%;
+    font-size: 340%;
+
 
 }
 html{margin-top: 5%;
@@ -30,6 +31,21 @@ a{
     text-decoration: none;
 }
 
+.container1{
+    margin-left: 85%;
+    position: fixed;
+
+}
+.main{
+    margin-top: 8%;
+    font-size: 130%;
+    line-height: 200%;
+}
 .container{
-    margin-left: 70%;
+    margin-left: 80%
+    position: fixed;
+
+
+    position: fixed;
+
 }
