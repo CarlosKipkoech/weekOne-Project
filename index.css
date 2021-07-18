@@ -8,10 +8,13 @@ body{
 h1{
     color: rgb(238, 152, 48);
     font-size: 340%;
+    margin-bottom: 1.5%;
+    border-bottom: black;
+    border-bottom-width: 10%;
 
 
 }
-html{margin-top: 5%;
+html{margin-top: 3%;
 margin: 8%;}
 
 h2{
@@ -54,4 +57,7 @@ border-left: 0%;
 }
 .more{
     line-height: 1.8em;
-    font-size: 130%}
+    font-size: 130%
+}
+    
+    
