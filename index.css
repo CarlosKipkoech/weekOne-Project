@@ -7,11 +7,11 @@ body{
 }
 h1{
     color: rgb(238, 152, 48);
-    font-size: 300%;
+    font-size: 350%;
 
 }
-html{margin-top: 7%;
-margin: 10%;}
+html{margin-top: 5%;
+margin: 8%;}
 
 .image{
     margin-left: 60%;
@@ -23,13 +23,13 @@ h2{
     line-height: 1.5em;
 
 }
-link{
-    margin-bottom: 20%
-
+.box4{
+    font-family: monospace;
 }
-.head{
-
+a{
+    text-decoration: none;
 }
-.p{
-    font-size: 90%;
+
+.container{
+    margin-left: 70%;
 }
