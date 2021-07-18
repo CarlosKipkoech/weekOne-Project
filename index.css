@@ -60,7 +60,16 @@ border-left: 0%;
 }
     
     
-.proto{ 
-    margin-top: 5%;
-    margin-left: 50%;
+.proto a{ 
+    position: relative;
+    margin-top: 10%;
+    margin-left: 35%;
+
+font-size: 120%;
+
+}
+.drive{
+    position: relative;
+     margin-top: 20%;
+     margin-left: 45%;
 }
