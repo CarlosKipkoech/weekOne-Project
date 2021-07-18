@@ -2,7 +2,7 @@ body{
     background-color: rgb(232, 236, 240);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6em;
-    margin: 4%;
+    margin: 1.5%;
     font-size: 110%;
 }
 h1{
@@ -14,9 +14,6 @@ h1{
 html{margin-top: 5%;
 margin: 8%;}
 
-.image{
-    margin-left: 60%;
-}
 h2{
     margin-top: 0%;
     margin-left:0%;
@@ -42,6 +39,15 @@ a{
     line-height: 200%;
 }
 .container{
-    margin-left: 80%;
+    margin-left: 85%;
+    margin-top: 6%;
     position: fixed;
+}
+ul{
+    font-size: 130%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 200%;
+}
+ul p{
+border-left: 0%;
 }
