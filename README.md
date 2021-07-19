@@ -1,4 +1,4 @@
-# Graphica.ly
+ Graphica.ly
 
 PHOTOGRAPHY 5MINS
 
