@@ -1,8 +1,8 @@
- Graphica.ly
+ # Graphica.ly
 
 PHOTOGRAPHY 5MINS
 
-# # Do you love photos? join graphica.ly,Connect and share your photos with more than a million users like you.
+# Do you love photos? join graphica.ly,Connect and share your photos with more than a million users like you.
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCarjgBWv7nSg0RE04C9owXTPcrqgLQb5SBQ&usqp=CAU)
 
 check us on trust pilot
@@ -21,7 +21,7 @@ Graphica.ly lets you post,share and vote for the best pictures of the day.We als
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmOG5lNAgKhLLPeZvmTEanU7SEELG-KHTUQ&usqp=CAU)
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmOG5lNAgKhLLPeZvmTEanU7SEELG-KHTUQ&usqp=CAU)
+![alt text]()
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwWvhw1SMBMjkf9p3_oaCTmzB7XQDZh1EnKg&usqp=CAU)
 
