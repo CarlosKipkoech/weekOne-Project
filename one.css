@@ -85,3 +85,14 @@ font-size: 120%;
 
 a{
     word-spacing: 80%;
+}
+
+.end{
+    background-color: rgb(216, 141, 87);
+    font-size: 130%;
+    border-left: chocolate;
+    padding-left: 20%;
+}
+.people{
+    font-size: 130%;
+}
